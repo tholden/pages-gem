@@ -6,3 +6,4 @@ CNAME
 test-site/
 vendor/
 tmp/
+*.orig
